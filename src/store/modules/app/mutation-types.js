@@ -1,0 +1,3 @@
+export const SIDEBAR_TOGGLE = 'SIDEBAR_TOGGLE';
+export const SIDEBAR_CLOSE = 'SIDEBAR_CLOSE';
+export const DEVICE_TOGGLE = 'DEVICE_TOGGLE';
