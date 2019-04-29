@@ -14,4 +14,6 @@ npm run serve
 
 or other command，see details `package.json`.
 
+## Preview
+
 <img src="http://8090lambert.cn/images/rapid_backend.png"/>
